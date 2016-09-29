@@ -1,6 +1,6 @@
 {
   "name": "inasurvivor",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "First Personal Node Project",
   "main": "index.js",
   "scripts": {

@@ -1,0 +1,22 @@
+{
+  "name": "inasurvivor",
+  "version": "0.0.1",
+  "description": "First Personal Node Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehelms70/inasurvivor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Erik Helms <ehelms70@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehelms70/inasurvivor/issues"
+  },
+  "homepage": "https://github.com/ehelms70/inasurvivor#readme"
+}
